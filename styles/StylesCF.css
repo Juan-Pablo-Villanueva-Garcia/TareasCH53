@@ -1,0 +1,18 @@
+html{
+    /*Aqui se crean variables*/
+    --bg-color: #7afff8;
+    --container-color: #eaf87b;
+    --item-color: #ff9ac7;
+    --hg-color: #000000;
+
+    
+    background-color: var(--bg-color);
+    color: var(--hg-color);
+    height: 1000vh;
+
+}
+
+    /* Cambiar fuente para el formulario */
+    body {
+        font-family: 'Arial', sans-serif;
+    }

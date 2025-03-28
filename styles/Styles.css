@@ -1,0 +1,23 @@
+html{
+    /*Aqui se crean variables*/
+    --bg-color: #5F8B4C;
+    --container-color: #FFDDAB;
+    --item-color: #FF9A9A;
+    --hg-color: #945034;
+
+    
+    background-color: var(--bg-color);
+    color: var(--hg-color);
+    height: 1000vh;
+    
+
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
